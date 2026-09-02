@@ -1,0 +1,166 @@
+symbol,name,market,category,enabled
+XIC.TO,iShares Core S&P TSX Capped Composite,CA,Canada large marché,true
+XIU.TO,iShares S&P TSX 60,CA,Canada large marché,true
+ZCN.TO,BMO S&P TSX Capped Composite,CA,Canada large marché,true
+VCN.TO,Vanguard FTSE Canada All Cap,CA,Canada large marché,true
+HXT.TO,Global X S&P TSX 60 Index,CA,Canada large marché,true
+XMD.TO,iShares S&P TSX Completion,CA,Canada moyennes capitalisations,true
+XCS.TO,iShares S&P TSX SmallCap,CA,Canada petites capitalisations,true
+XDIV.TO,iShares Core MSCI Canadian Quality Dividend,CA,Canada dividendes,true
+VDY.TO,Vanguard FTSE Canadian High Dividend Yield,CA,Canada dividendes,true
+ZDV.TO,BMO Canadian Dividend,CA,Canada dividendes,true
+CDZ.TO,iShares S&P TSX Canadian Dividend Aristocrats,CA,Canada dividendes,true
+XEI.TO,iShares S&P TSX Composite High Dividend,CA,Canada dividendes,true
+XMV.TO,iShares MSCI Min Vol Canada,CA,Canada facteurs,true
+ZLB.TO,BMO Low Volatility Canadian Equity,CA,Canada facteurs,true
+XFN.TO,iShares S&P TSX Capped Financials,CA,Financières,true
+ZEB.TO,BMO Equal Weight Banks,CA,Financières,true
+ZWB.TO,BMO Covered Call Canadian Banks,CA,Financières,true
+HBNK.TO,Global X Equal Weight Canadian Banks,CA,Financières,true
+XEG.TO,iShares S&P TSX Capped Energy,CA,Énergie,true
+ZEO.TO,BMO Equal Weight Oil & Gas,CA,Énergie,true
+XMA.TO,iShares S&P TSX Capped Materials,CA,Matériaux,true
+XGD.TO,iShares S&P TSX Global Gold,CA,Or et minières,true
+ZGD.TO,BMO Equal Weight Global Gold,CA,Or et minières,true
+CGL-C.TO,iShares Gold Bullion CAD Hedged,CA,Or et métaux,true
+KILO-B.TO,Purpose Gold Bullion,CA,Or et métaux,true
+XIT.TO,iShares S&P TSX Capped Information Technology,CA,Technologie,true
+TEC.TO,TD Global Technology Leaders,CA,Technologie,true
+XRE.TO,iShares S&P TSX Capped REIT,CA,Immobilier,true
+ZRE.TO,BMO Equal Weight REITs,CA,Immobilier,true
+XUT.TO,iShares S&P TSX Capped Utilities,CA,Services publics,true
+ZUT.TO,BMO Equal Weight Utilities,CA,Services publics,true
+HHL.TO,Harvest Healthcare Leaders Income,CA,Santé,true
+XST.TO,iShares S&P TSX Capped Consumer Staples,CA,Consommation,true
+XHC.TO,iShares Global Healthcare CAD Hedged,CA,Santé,true
+VFV.TO,Vanguard S&P 500 Index,CA,États-Unis large marché,true
+ZSP.TO,BMO S&P 500 Index,CA,États-Unis large marché,true
+XUS.TO,iShares Core S&P 500 Index,CA,États-Unis large marché,true
+XSP.TO,iShares Core S&P 500 CAD Hedged,CA,États-Unis large marché,true
+XUU.TO,iShares Core S&P US Total Market,CA,États-Unis large marché,true
+VUN.TO,Vanguard US Total Market Index,CA,États-Unis large marché,true
+ZQQ.TO,BMO Nasdaq 100 Equity Hedged,CA,États-Unis technologie,true
+XQQ.TO,iShares Nasdaq 100 CAD Hedged,CA,États-Unis technologie,true
+HXQ.TO,Global X Nasdaq 100 Index,CA,États-Unis technologie,true
+XEF.TO,iShares Core MSCI EAFE IMI,CA,International développé,true
+ZEA.TO,BMO MSCI EAFE Index,CA,International développé,true
+VIU.TO,Vanguard FTSE Developed All Cap ex North America,CA,International développé,true
+XEC.TO,iShares Core MSCI Emerging Markets IMI,CA,Marchés émergents,true
+ZEM.TO,BMO MSCI Emerging Markets,CA,Marchés émergents,true
+VEE.TO,Vanguard FTSE Emerging Markets All Cap,CA,Marchés émergents,true
+XAW.TO,iShares Core MSCI All Country World ex Canada,CA,Monde,true
+VXC.TO,Vanguard FTSE Global All Cap ex Canada,CA,Monde,true
+XEQT.TO,iShares Core Equity ETF Portfolio,CA,Portefeuille tout-en-un,true
+VEQT.TO,Vanguard All Equity ETF Portfolio,CA,Portefeuille tout-en-un,true
+ZEQT.TO,BMO All Equity ETF,CA,Portefeuille tout-en-un,true
+XGRO.TO,iShares Core Growth ETF Portfolio,CA,Portefeuille tout-en-un,true
+VGRO.TO,Vanguard Growth ETF Portfolio,CA,Portefeuille tout-en-un,true
+XBAL.TO,iShares Core Balanced ETF Portfolio,CA,Portefeuille tout-en-un,true
+VBAL.TO,Vanguard Balanced ETF Portfolio,CA,Portefeuille tout-en-un,true
+ZAG.TO,BMO Aggregate Bond Index,CA,Obligations,true
+XBB.TO,iShares Core Canadian Universe Bond,CA,Obligations,true
+VAB.TO,Vanguard Canadian Aggregate Bond Index,CA,Obligations,true
+XSB.TO,iShares Core Canadian Short Term Bond,CA,Obligations court terme,true
+VSB.TO,Vanguard Canadian Short Term Bond Index,CA,Obligations court terme,true
+ZFL.TO,BMO Long Federal Bond Index,CA,Obligations long terme,true
+XLB.TO,iShares Core Canadian Long Term Bond,CA,Obligations long terme,true
+XCB.TO,iShares Core Canadian Corporate Bond,CA,Obligations corporatives,true
+ZCB.TO,BMO Corporate Bond Index,CA,Obligations corporatives,true
+XHY.TO,iShares US High Yield Bond CAD Hedged,CA,Obligations haut rendement,true
+HBB.TO,Global X Canadian Select Universe Bond,CA,Obligations,true
+SPY,SPDR S&P 500 ETF Trust,US,États-Unis large marché,true
+QQQ,Invesco QQQ Trust,US,États-Unis technologie,true
+IWM,iShares Russell 2000,US,États-Unis petites capitalisations,true
+DIA,SPDR Dow Jones Industrial Average,US,États-Unis large marché,true
+VTI,Vanguard Total Stock Market,US,États-Unis large marché,true
+RSP,Invesco S&P 500 Equal Weight,US,États-Unis large marché,true
+MDY,SPDR S&P MidCap 400,US,États-Unis moyennes capitalisations,true
+IJR,iShares Core S&P Small-Cap,US,États-Unis petites capitalisations,true
+SCHB,Schwab US Broad Market,US,États-Unis large marché,true
+ITOT,iShares Core S&P Total US Stock Market,US,États-Unis large marché,true
+VT,Vanguard Total World Stock,US,Monde,true
+ACWI,iShares MSCI ACWI,US,Monde,true
+VEA,Vanguard FTSE Developed Markets,US,International développé,true
+EFA,iShares MSCI EAFE,US,International développé,true
+VWO,Vanguard FTSE Emerging Markets,US,Marchés émergents,true
+EEM,iShares MSCI Emerging Markets,US,Marchés émergents,true
+XLK,Technology Select Sector SPDR,US,Technologie,true
+XLF,Financial Select Sector SPDR,US,Financières,true
+XLE,Energy Select Sector SPDR,US,Énergie,true
+XLV,Health Care Select Sector SPDR,US,Santé,true
+XLI,Industrial Select Sector SPDR,US,Industrielles,true
+XLY,Consumer Discretionary Select Sector SPDR,US,Consommation discrétionnaire,true
+XLP,Consumer Staples Select Sector SPDR,US,Consommation de base,true
+XLU,Utilities Select Sector SPDR,US,Services publics,true
+XLRE,Real Estate Select Sector SPDR,US,Immobilier,true
+XLB,Materials Select Sector SPDR,US,Matériaux,true
+XLC,Communication Services Select Sector SPDR,US,Communications,true
+SMH,VanEck Semiconductor,US,Semi-conducteurs,true
+SOXX,iShares Semiconductor,US,Semi-conducteurs,true
+XBI,SPDR S&P Biotech,US,Biotechnologie,true
+IBB,iShares Biotechnology,US,Biotechnologie,true
+KRE,SPDR S&P Regional Banking,US,Banques régionales,true
+KBE,SPDR S&P Bank,US,Banques,true
+XRT,SPDR S&P Retail,US,Commerce de détail,true
+ITB,iShares US Home Construction,US,Construction résidentielle,true
+XHB,SPDR S&P Homebuilders,US,Construction résidentielle,true
+IYT,iShares Transportation Average,US,Transport,true
+JETS,US Global Jets,US,Transport aérien,true
+IGV,iShares Expanded Tech-Software Sector,US,Logiciels,true
+CLOU,Global X Cloud Computing,US,Infonuagique,true
+HACK,ETFMG Prime Cyber Security,US,Cybersécurité,true
+BOTZ,Global X Robotics & Artificial Intelligence,US,Robotique et IA,true
+ROBO,ROBO Global Robotics and Automation,US,Robotique et IA,true
+ARKK,ARK Innovation,US,Innovation,true
+MTUM,iShares MSCI USA Momentum Factor,US,Facteur momentum,true
+QUAL,iShares MSCI USA Quality Factor,US,Facteur qualité,true
+USMV,iShares MSCI USA Min Vol Factor,US,Facteur faible volatilité,true
+VLUE,iShares MSCI USA Value Factor,US,Facteur valeur,true
+VIG,Vanguard Dividend Appreciation,US,Dividendes,true
+VYM,Vanguard High Dividend Yield,US,Dividendes,true
+SCHD,Schwab US Dividend Equity,US,Dividendes,true
+IWF,iShares Russell 1000 Growth,US,Croissance,true
+IWD,iShares Russell 1000 Value,US,Valeur,true
+IWO,iShares Russell 2000 Growth,US,Croissance petites capitalisations,true
+IWN,iShares Russell 2000 Value,US,Valeur petites capitalisations,true
+VNQ,Vanguard Real Estate,US,Immobilier,true
+IYR,iShares US Real Estate,US,Immobilier,true
+TLT,iShares 20+ Year Treasury Bond,US,Obligations long terme,true
+IEF,iShares 7-10 Year Treasury Bond,US,Obligations moyen terme,true
+SHY,iShares 1-3 Year Treasury Bond,US,Obligations court terme,true
+SGOV,iShares 0-3 Month Treasury Bond,US,Trésorerie,true
+HYG,iShares iBoxx High Yield Corporate Bond,US,Obligations haut rendement,true
+JNK,SPDR Bloomberg High Yield Bond,US,Obligations haut rendement,true
+LQD,iShares iBoxx Investment Grade Corporate Bond,US,Obligations corporatives,true
+TIP,iShares TIPS Bond,US,Obligations indexées inflation,true
+BND,Vanguard Total Bond Market,US,Obligations,true
+AGG,iShares Core US Aggregate Bond,US,Obligations,true
+EMB,iShares JPMorgan USD Emerging Markets Bond,US,Dette émergente,true
+GLD,SPDR Gold Shares,US,Or et métaux,true
+IAU,iShares Gold Trust,US,Or et métaux,true
+SLV,iShares Silver Trust,US,Or et métaux,true
+GDX,VanEck Gold Miners,US,Or et minières,true
+GDXJ,VanEck Junior Gold Miners,US,Or et minières,true
+USO,United States Oil Fund,US,Énergie et matières premières,true
+XOP,SPDR S&P Oil & Gas Exploration & Production,US,Énergie,true
+XME,SPDR S&P Metals and Mining,US,Matériaux,true
+COPX,Global X Copper Miners,US,Cuivre,true
+URA,Global X Uranium,US,Uranium,true
+PDBC,Invesco Optimum Yield Diversified Commodity,US,Matières premières,true
+DBA,Invesco DB Agriculture,US,Agriculture,true
+EWJ,iShares MSCI Japan,US,Pays,true
+EWZ,iShares MSCI Brazil,US,Pays,true
+FXI,iShares China Large-Cap,US,Pays,true
+KWEB,KraneShares CSI China Internet,US,Pays,true
+INDA,iShares MSCI India,US,Pays,true
+EWY,iShares MSCI South Korea,US,Pays,true
+EWT,iShares MSCI Taiwan,US,Pays,true
+EWC,iShares MSCI Canada,US,Pays,true
+EWW,iShares MSCI Mexico,US,Pays,true
+EWA,iShares MSCI Australia,US,Pays,true
+EWU,iShares MSCI United Kingdom,US,Pays,true
+EWG,iShares MSCI Germany,US,Pays,true
+EWQ,iShares MSCI France,US,Pays,true
+EWI,iShares MSCI Italy,US,Pays,true
+EWP,iShares MSCI Spain,US,Pays,true
+EWH,iShares MSCI Hong Kong,US,Pays,true
