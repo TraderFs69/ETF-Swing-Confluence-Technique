@@ -1,0 +1,67 @@
+markets:
+  CA: true
+  US: true
+
+benchmarks:
+  CA: XIC.TO
+  US: SPY
+
+download:
+  period: 3y
+  batch_size: 30
+  pause_seconds: 0.8
+  retries: 3
+  timeout_seconds: 30
+
+strategy:
+  minimum_history_sessions: 300
+  minimum_price: 5.00
+  minimum_average_dollar_volume:
+    CA: 1000000
+    US: 10000000
+
+  # Force relative : 70 conserve les 30 % les plus forts de chaque marché.
+  minimum_rs_percentile: 70
+
+  # Repli haussier.
+  pullback_minimum_score: 70
+  pullback_lookback: 6
+  ema_touch_atr_tolerance: 0.35
+  pullback_maximum_extension_atr: 1.00
+  pullback_rsi_minimum: 45
+  pullback_rsi_maximum: 62
+  pullback_bollinger_maximum: 0.55
+
+  # Cassure momentum.
+  breakout_minimum_score: 75
+  breakout_maximum_extension_atr: 2.00
+  breakout_minimum_close_location: 0.65
+  breakout_rsi_minimum: 55
+  breakout_rsi_maximum: 72
+  breakout_bollinger_minimum: 0.80
+  breakout_bollinger_maximum: 1.25
+
+  # Indicateurs.
+  rsi_period: 14
+  atr_period: 14
+  adx_period: 14
+  minimum_adx: 20
+  macd_fast: 12
+  macd_slow: 26
+  macd_signal: 9
+  bollinger_period: 20
+  bollinger_std: 2.0
+  volume_average_period: 20
+  minimum_relative_volume_bonus: 1.10
+
+  # Gestion du risque indicative.
+  stop_atr: 1.50
+  maximum_risk_pct: 8.00
+
+report:
+  top_n_per_setup: 10
+  maximum_per_category: 2
+
+discord:
+  enabled: true
+  username: ETF Confluence — Trading en Action
